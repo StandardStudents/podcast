@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Standard Students Podcast</title>
+        <language>en_us</language>
+        <copyright>Copyright 2017, PryDt and Wbne</copyright>
+        <image>
+            <title>The Standard Students Podcast Logo</title>
+            <url>http://standardstudents.github.io/imgs/logo.png</url>
+        </image>
+        <link>http://www.standardstudents.github.io</link>
+        <lastBuildDate>Mon, 06 Sep 2010 00:01:00 +0000 </lastBuildDate>
+        <pubDate>Sun, 20 Aug 2017 16:20:00 GMT</pubDate>
+        <webMaster>prydt@waifu.club</webMaster>
+
+        <itunes:author>Pranoy &amp; Ben</itunes:author>
+        <itunes:subtitle>Two Highschoolers talk about Highschool.</itunes:subtitle>
+        <itunes:summary>Standard Students is a low-budget podcast made by two highschoolers who discuss their weekly-ish lives.</itunes:summary>
+        <description>Standard Students is a low-budget podcast made by two highschoolers who discuss their weekly-ish lives.</description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Ben W</itunes:name>
+            <itunes:email>drearydactyl@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Education"/>
+        <itunes:image href="http://standardstudents.github.io/imgs/logo.png"/>
+
+
+        <item>
+		<title>Standard Students 1: We don't like to introduce ourselves</title>
+		<dc:creator>Standard Students</dc:creator>
+		<pubDate>Sat, 19 Aug 2017 10:44:00 +0000</pubDate>
+		<link>http://www.standardstudents.github.io/podcast/85</link>
+		<guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:5977aacf2994caf479044635</guid>
+		<description><![CDATA[
+
+			<h1>Episode 1: We don't like Introductions</h1>
+			<p>After months of troubleshooting, two idiots finally manage to cobble together a product that they call "Standard Students"</p>
+
+		]]></description>
+
+		<media:content type="image/png" url="http://standardstudents.github.io/imgs/logo.png" medium="image" isDefault="true" width="1400" height="1400">
+		<media:title type="plain">H.I. #85: Another Person I've Never Heard Of</media:title></media:content>
+		<itunes:author>Hello Internet</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>01:56:54</itunes:duration>
+		<itunes:image href="http://standardstudents.github.io/imgs/logo.png"/>
+		<enclosure url="http://traffic.libsyn.com/hellointernet/HI85.mp3" type="audio/mpeg"/>
+	</item>
+    </channel>
+</rss>
