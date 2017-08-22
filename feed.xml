@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Standard Students Podcast</title>
-        <language>en_us</language>
+        <language>en-us</language>
         <copyright>Copyright 2017, PryDt and Wbne</copyright>
         <image>
-            <title>The Standard Students Podcast Logo</title>
-            <url>http://standardstudents.github.io/imgs/logo.png</url>
+            <title>The Standard Students Podcast</title>
+            <url>http://a.safe.moe/d3euW.png</url>
+            <link>http://standardstudents.github.io/podcast</link>
         </image>
-        <link>http://www.standardstudents.github.io</link>
+        <link>http://standardstudents.github.io/podcast</link>
         <lastBuildDate>Mon, 06 Sep 2010 00:01:00 +0000 </lastBuildDate>
         <pubDate>Sun, 20 Aug 2017 16:20:00 GMT</pubDate>
-        <webMaster>prydt@waifu.club</webMaster>
+        <webMaster>prydt@waifu.club (Pranoy Dutta)</webMaster>
+        <atom:link href="http://standardstudents.github.io/media/feed.xml" rel="self" type="application/rss+xml" />
 
         <itunes:author>Pranoy &amp; Ben</itunes:author>
         <itunes:subtitle>Two Highschoolers talk about Highschool.</itunes:subtitle>
@@ -23,7 +25,7 @@
             <itunes:email>drearydactyl@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:category text="Education"/>
-        <itunes:image href="http://standardstudents.github.io/imgs/logo.png"/>
+        <itunes:image href="http://a.safe.moe/d3euW.png"/>
 
 
         <item>
@@ -38,13 +40,14 @@
 
           ]]></description>
 
-          <media:content type="image/png" url="https://a.safe.moe/d3euW.png" medium="image" isDefault="true" width="1400" height="1400">
+          <media:content type="image/png" url="http://a.safe.moe/d3euW.png" medium="image" isDefault="true" width="1400" height="1400">
           <media:title type="plain">Standard Students 1: We don't like to introduce ourselves</media:title></media:content>
           <itunes:author>Standard Students</itunes:author>
           <itunes:explicit>no</itunes:explicit>
           <itunes:duration>42:00</itunes:duration>
-          <itunes:image href="https://a.safe.moe/d3euW.png"/>
-          <enclosure url="https://my.mixtape.moe/mxqhfu.mp3" type="audio/mpeg"/>
+          <itunes:image href="http://a.safe.moe/d3euW.png"/>
+          <enclosure url="http://my.mixtape.moe/mxqhfu.mp3" type="audio/mpeg" length="68801582"/>
+          <guid>week0</guid>
         </item>
     </channel>
 </rss>
