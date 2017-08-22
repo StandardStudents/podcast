@@ -1,5 +1,6 @@
 <template>
   <div>
+    <img id="logo" src="../assets/logo.png" alt="The Standard Students Logo">
     <top></top>
   </div>
 </template>
@@ -19,5 +20,12 @@ export default {
 </script>
 
 <style>
-@@import "../assets/main.css";
+@import "../assets/main.css";
+
+#logo {
+  display: block;
+  margin: auto;
+  width: 350px;
+  height: 350px;
+}
 </style>

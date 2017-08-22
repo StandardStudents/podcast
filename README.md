@@ -1,21 +1,13 @@
-# standard-students
+# The Standard Students Podcast
 
-> A Vue.js Website for a Podcast
+> A Vue.js Website for the Standard Students Podcast
 
-## Build Setup
+## What is Standard Students?
+Standard Students is a podcast hosted by two extremely "witty" hosts. The focus of the podcast is mainly high school, but we will talk about other stuff too.
 
-``` bash
-# install dependencies
-npm install
+## Why should I listen?
+Because you may be sympathetic to us; after all, we are in high school.
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Who are you?
+I'm an eagle. ~ Wbne
+I'm a high schooler who enjoys programming. ~ [Prydt](https://github.com/prydt)
