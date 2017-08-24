@@ -1,7 +1,9 @@
 <template>
   <div>
-    <img id="logo" src="../assets/logo.png" alt="The Standard Students Logo">
-    <top></top>
+    <router-link :to="{ name: 'Lander' }">
+      <img id="logo" src="../assets/logo.png" alt="The Standard Students Logo">
+    </router-link>
+    <top/>
   </div>
 </template>
 
@@ -20,8 +22,6 @@ export default {
 </script>
 
 <style>
-@import "../assets/main.css";
-
 #logo {
   display: block;
   margin: auto;
