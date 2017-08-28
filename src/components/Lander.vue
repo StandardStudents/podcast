@@ -1,7 +1,7 @@
 <template>
   <div>
     <a href="https://github.com/StandardStudents/" target="_blank">
-      <img id="logo" src="../../static/logo.png" alt="The Standard Students Logo">
+      <img id="logo" src="../assets/logo.png" alt="The Standard Students Logo">
     </a>
     <top/>
   </div>
