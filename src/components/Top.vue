@@ -28,7 +28,7 @@ p {
 }
 .menu {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 .menu-item {
   font-size: 20px;
