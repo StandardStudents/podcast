@@ -11,4 +11,43 @@ a {
 a:hover {
   color: #000;
   text-decoration: underline;
+  background: #ff2b2b;
+}
+
+
+p::selection {
+  background: #ff2b2b;
+}
+p::-moz-selection {
+  background: #ff2b2b;
+}
+br::selection {
+  background: #ff2b2b;
+}
+br::-moz-selection {
+  background: #ff2b2b;
+}
+h1::selection {
+  background: #ff2b2b;
+}
+h1::-moz-selection {
+  background: #ff2b2b;
+}
+a::selection {
+  background: #ff2b2b;
+  color: black;
+}
+a::-moz-selection {
+  background: #ff2b2b;
+  color: black;
+}
+
+h1 {
+  font-weight: normal;
+}
+h2 {
+  font-weight: normal;
+}
+p {
+  font-size: 17px;
 }

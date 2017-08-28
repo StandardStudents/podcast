@@ -1,8 +1,8 @@
 <template>
   <div>
-    <router-link :to="{ name: 'Lander' }">
-      <img id="logo" src="../assets/logo.png" alt="The Standard Students Logo">
-    </router-link>
+    <a href="https://github.com/StandardStudents/" target="_blank">
+      <img id="logo" src="../../static/logo.png" alt="The Standard Students Logo">
+    </a>
     <top/>
   </div>
 </template>
