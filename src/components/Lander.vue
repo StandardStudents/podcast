@@ -1,9 +1,6 @@
 <template>
   <div>
-    <a href="https://github.com/StandardStudents/" target="_blank">
-      <img id="logo" src="../assets/logo.png" alt="The Standard Students Logo">
-    </a>
-    <top/>
+    <top dim="350px"/>
   </div>
 </template>
 
@@ -21,11 +18,6 @@ export default {
 }
 </script>
 
-<style>
-#logo {
-  display: block;
-  margin: auto;
-  width: 350px;
-  height: 350px;
-}
+<style scoped>
+
 </style>
