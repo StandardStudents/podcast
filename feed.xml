@@ -27,21 +27,44 @@
         <itunes:category text="Education"/>
         <itunes:image href="http://a.safe.moe/d3euW.png"/>
 
-
         <item>
-          <title>Standard Students 1: We don't like to introduce ourselves</title>
+          <title>Standard Students 1: From China to Cheetos</title>
           <dc:creator>Standard Students</dc:creator>
-          <pubDate>Sat, 19 Aug 2017 10:44:00 +0000</pubDate>
-          <link>http://www.standardstudents.github.io/podcast/85</link>
+          <pubDate>Thurs, 31 Aug 2017 4:20:00 +0000</pubDate>
+          <link>http://www.standardstudents.github.io/podcast/</link>
           <description><![CDATA[
 
-          <h1>Episode 1: We don't like Introductions</h1>
+          <h1>Episode 1: From China to Cheetos</h1>
+          <p>After a week of school and many days of procrastinating, Pranoy and Ben get back together to record another episode, now properly starting at 1. From school to shopping malls, this time, I think Ben drank some more tea.</p>
+
+          ]]></description>
+
+          <media:content type="image/png" url="http://a.safe.moe/d3euW.png" medium="image" isDefault="true" width="1400" height="1400">
+            <media:title type="plain">Standard Students 1: From China to Cheetos</media:title>
+          </media:content>
+          <itunes:author>Standard Students</itunes:author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:duration>1:22:10</itunes:duration>
+          <itunes:image href="http://a.safe.moe/d3euW.png"/>
+          <enclosure url="https://a.safe.moe/J0Mxz.mp3" type="audio/mpeg" length="118345061"/>
+          <guid>week1</guid>
+        </item>
+
+        <item>
+          <title>Standard Students 0: We don't like to introduce ourselves</title>
+          <dc:creator>Standard Students</dc:creator>
+          <pubDate>Sat, 19 Aug 2017 10:44:00 +0000</pubDate>
+          <link>http://www.standardstudents.github.io/podcast/</link>
+          <description><![CDATA[
+
+          <h1>Episode 0: We don't like Introductions</h1>
           <p>After months of troubleshooting, two idiots finally manage to cobble together a product that they call "Standard Students"</p>
 
           ]]></description>
 
           <media:content type="image/png" url="http://a.safe.moe/d3euW.png" medium="image" isDefault="true" width="1400" height="1400">
-          <media:title type="plain">Standard Students 1: We don't like to introduce ourselves</media:title></media:content>
+            <media:title type="plain">Standard Students 0: We don't like to introduce ourselves</media:title>
+          </media:content>
           <itunes:author>Standard Students</itunes:author>
           <itunes:explicit>no</itunes:explicit>
           <itunes:duration>42:00</itunes:duration>
